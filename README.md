@@ -2,7 +2,7 @@
 
 **你是否手握大量Pi币却不知道它的市场价值？** 随着Pi Network主网开放，不少“先锋”（Pioneers）开始关注 **Pi Network价格** 走势，思考如何将多年挖矿所得的Pi币变现。本文将围绕这一痛点，从快速获取Pi币最新价格、选择合规交易平台到避免常见陷阱，全方位解答你的疑惑。首先，我们提供一份**快速解决方案清单**，帮助你高效了解Pi币价格并安全交易。
 
-![Pi Network价格]()
+![Pi Network价格](https://github.com/zttu/pi-coin/blob/main/pi%20network.png)
 
 ## 快速解决方案：如何查询Pi币价格并安全交易变现
 
